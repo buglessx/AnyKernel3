@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Ryzen Kernel by Edwiin Kusuma Jaya @ telegram
+kernel.string=Dolphin Kernel by xzanxz @ telegram
 do.devicecheck=1
 do.modules=1
 do.systemless=0
